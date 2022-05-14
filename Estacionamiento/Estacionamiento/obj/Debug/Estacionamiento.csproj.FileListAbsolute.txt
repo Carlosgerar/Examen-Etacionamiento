@@ -1,0 +1,8 @@
+C:\Users\CGCS9\Downloads\CGCS\examne estacionamiento\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.AssemblyReference.cache
+C:\Users\CGCS9\Downloads\CGCS\examne estacionamiento\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.SuggestedBindingRedirects.cache
+C:\Users\CGCS9\Downloads\CGCS\examne estacionamiento\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\CGCS9\Downloads\CGCS\examne estacionamiento\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe.config
+C:\Users\CGCS9\Downloads\CGCS\examne estacionamiento\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.exe
+C:\Users\CGCS9\Downloads\CGCS\examne estacionamiento\Estacionamiento\Estacionamiento\bin\Debug\Estacionamiento.pdb
+C:\Users\CGCS9\Downloads\CGCS\examne estacionamiento\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.exe
+C:\Users\CGCS9\Downloads\CGCS\examne estacionamiento\Estacionamiento\Estacionamiento\obj\Debug\Estacionamiento.pdb
